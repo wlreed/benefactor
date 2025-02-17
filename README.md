@@ -1,7 +1,7 @@
 # Benefactor Solution
 
 A solution for the problem provided by "Benefactor".
-This is a Maven project, designed to run on a Mac. It uses Page Object Model ([POM](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)), [Google Chrome for Testing](https://developer.chrome.com/blog/chrome-for-testing/),
+This is a Maven project, designed to run on a Mac. It uses Page Object Model ([POM](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)), and [Google Chrome for Testing](https://developer.chrome.com/blog/chrome-for-testing/).
 
 ## Table of Contents
 
