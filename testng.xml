@@ -1,0 +1,12 @@
+<suite name="RegressionSuite">
+    <test name="Functionality Test">
+        <classes>
+            <class name="com.benefactor.selenium.solution.GoogleFinanceTest">
+                <methods>
+                    <include name="openGoogleFinance" />
+                    <exclude name="compareStockSymbols" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
